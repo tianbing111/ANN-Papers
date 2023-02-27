@@ -1,15 +1,4 @@
-# ANN-Papers
-
-# Content
-
-- 4 [Quantization based Index](https://github.com/Unstructured-Data-Community/ANN-Papers/content#4-quantization-based-index)
-
-  - 4.1 [New hardware acceleraton](https://github.com/Unstructured-Data-Community/ANN-Papers/content#41-new-hardware-acceleraton)
-  - 4.2 [Query Optimization](https://github.com/Unstructured-Data-Community/ANN-Papers/content#42-query-optimization)
-
-## Relevant papers
-
-### 4 Quantization based Index
+# Quantization based Index
 
 
 (必读)[1] **Product Quantization for Nearest Neighbor Search** TPAMI 2010. [paper](https://hal.inria.fr/inria-00514462v2/document)
@@ -151,19 +140,3 @@
 *Ikraduya Edian*
 
 ---
-
-
-持续更新中……
-
-## Contributors
-
-<a href="https://github.com/Unstructured-Data-Community/ANN-Papers/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Unstructured-Data-Community/ANN-Papers" />
-</a>
-
-Made with [contrib.rocks](https://contrib.rocks).
-
-## LICENSE
-
-[Apache-2.0 license](./LICENSE)
-

@@ -1,8 +1,4 @@
-# ANN-Papers
-
-## Relevant papers
-
-### 1 Survey
+# Survey
 
 
 （必读）[1] **Approximate Nearest Neighbor Search on High Dimensional Data — Experiments, Analyses, and Improvement.** TKDE 2020.[paper](https://arxiv.org/pdf/1610.02455.pdf)
@@ -28,20 +24,3 @@
 *Panos K. Syriopoulos, Sotiris B. Kotsiantis & Michael N. Vrahatis*
 
 ---
-
-
-持续更新中……
-
-## Contributors
-
-<a href="https://github.com/Unstructured-Data-Community/ANN-Papers/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Unstructured-Data-Community/ANN-Papers" />
-</a>
-
-Made with [contrib.rocks](https://contrib.rocks).
-
-## LICENSE
-
-[Apache-2.0 license](./LICENSE)
-
-

@@ -1,16 +1,4 @@
-# ANN-Papers
-
-# Content
-
-- 3 [Graph-based-Index](https://github.com/Unstructured-Data-Community/ANN-Papers/content#3-graph-based-index)
-
-  - 3.1 [Query Optimization](https://github.com/Unstructured-Data-Community/ANN-Papers/content#31-query-optimization)
-  - 3.2 [New hardware acceleration](https://github.com/Unstructured-Data-Community/ANN-Papers/content#32-new-hardware-acceleration)
-  - 3.3 [kNN graph](https://github.com/Unstructured-Data-Community/ANN-Papers/content#33-knn-graph)
-
-## Relevant papers
-
-### 3 Graph based Index
+# Graph based Index
 
 
 (必读)[1] **Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchial Navigable Small World Graphs** HNSW 2020. [paper](https://arxiv.org/pdf/1603.09320.pdf)
@@ -163,20 +151,3 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 *Fu, C. and Cai, D.*
 
 ---
-
-
-持续更新中……
-
-
-## Contributors
-
-<a href="https://github.com/Unstructured-Data-Community/ANN-Papers/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Unstructured-Data-Community/ANN-Papers" />
-</a>
-
-Made with [contrib.rocks](https://contrib.rocks).
-
-## LICENSE
-
-[Apache-2.0 license](./LICENSE)
-

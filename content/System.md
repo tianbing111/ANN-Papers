@@ -16,19 +16,3 @@
 *Yejin Lee, Hyunji Choi, Sunhong Min and so on*
 
 ---
-
-持续更新中……
-
-## Contributors
-
-<a href="https://github.com/Unstructured-Data-Community/ANN-Papers/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Unstructured-Data-Community/ANN-Papers" />
-</a>
-
-Made with [contrib.rocks](https://contrib.rocks).
-
-## LICENSE
-
-[Apache-2.0 license](./LICENSE)
-
-

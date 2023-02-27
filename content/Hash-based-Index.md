@@ -1,16 +1,4 @@
-# ANN-Papers
-
-# Content
-
-- 5 [Hash based Index](https://github.com/Unstructured-Data-Community/ANN-Papers/content#5-hash-based-index)
-
-  - 5.1 [New hardware adaptation](https://github.com/Unstructured-Data-Community/ANN-Papers/content#51-new-hardware-adaptation)
-  - 5.2 [Query Optimization](https://github.com/Unstructured-Data-Community/ANN-Papers/content#52-query-optimization)
-  - 5.3 [Learning to Hash (L2H)](https://github.com/Unstructured-Data-Community/ANN-Papers/content#53-learning-to-hash-l2h)
-  
-## Relevant papers
-
-### 5 Hash based Index
+# Hash based Index
 
 
 [1] **MQH: Locality Sensitive Hashing on Multi-level Qantization Errors for Point-to-Hyperplane Distances** VLDB 2022. [paper](https://www.vldb.org/pvldb/vol16/p864-lu.pdf)
@@ -97,9 +85,7 @@
 
 ---
 
-
 #### 5.1 Hardware adaptation
-
 
 [1] **Implementing and Evaluating E2LSH on Storage** EDBT 2023. [paper](https://openproceedings.org/2023/conf/edbt/paper-20.pdf)
 
@@ -119,9 +105,7 @@ ___
 
 ---
 
-
 #### 5.2 Query Optimization
-
 
 **EI-LSH: An early-termination driven I/O efficient incremental c-approximate nearest neighbor search** VLDBJ 2021. [paper](https://link.springer.com/article/10.1007/s00778-020-00635-4)
 
@@ -129,27 +113,8 @@ ___
 
 ---
 
-
-
 #### 5.3 Learning to Hash (L2H)
-
 
 待补充
 
-
 ---
-
-持续更新中……
-
-## Contributors
-
-<a href="https://github.com/Unstructured-Data-Community/ANN-Papers/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Unstructured-Data-Community/ANN-Papers" />
-</a>
-
-Made with [contrib.rocks](https://contrib.rocks).
-
-## LICENSE
-
-[Apache-2.0 license](./LICENSE)
-
