@@ -185,7 +185,7 @@ ___
 ## WeChat Group
 
 <div align=center>
-<p>扫描下方二维码关注公众号：向量检索实验室（发送“进群”加入交流群）</p>
+<p>扫描下方二维码关注公众号：向量检索实验室（发送“加入社群”进入交流群）</p>
 <img src="./public.jpg" width = "180" height = "180">
 </div>
 
