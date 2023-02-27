@@ -173,13 +173,21 @@ Contributions are always welcome! Make an individual pull request for each sugge
 *Wei Wu, Junlin He, Yu Qiao, Guoheng Fu, Li Liu, Jin Yu*
 ___
 
-## Contributors
+## Project initiator
+| 姓名 | 介绍 | 简介 | 联系 |
+| :-------------------------: | :----------------------------: | :--------------------------: | :-------------: |
+| 苏鹏 | Datawhale 成员，东北大学硕士 | https://github.com/SuperSupeng | wechat: subranium |
+| 王梦召 | 浙江大学博士 |  |  |
+| 张鹏程 | 上海交通大学博士 |  |  |
+| 王泽宇 | 复旦大学博士 |  |  |
+| 田冰 | 华中科技大学博士 |  | |
 
-<a href="https://github.com/Unstructured-Data-Community/ANN-Papers/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Unstructured-Data-Community/ANN-Papers" />
-</a>
+## WeChat Group
 
-Made with [contrib.rocks](https://contrib.rocks).
+<div align=center>
+<p>扫描下方二维码关注公众号：向量检索实验室（发送“进群”加入交流群）</p>
+<img src="./public.jpg" width = "180" height = "180">
+</div>
 
 ## LICENSE
 
