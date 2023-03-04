@@ -180,7 +180,7 @@ ___
 | 王梦召 | 浙江大学博士 |  |  |
 | 张鹏程 | 上海交通大学博士 | https://github.com/pzque | zhangpc123@outlook.com |
 | 王泽宇 | 复旦大学博士 |  |  |
-| 田冰 | 华中科技大学博士 |  | |
+| 田冰 | 华中科技大学博士 | https://github.com/tianbing111 | tbing@hust.edu.cn |
 
 ## WeChat Group
 
