@@ -59,6 +59,17 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 ---
 
+[2] **HM-ANN: Efficient Billion-Point Nearest Neighbor Search on Heterogeneous Memory** NIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/file/788d986905533aba051261497ecffcbb-Paper.pdf)
+
+*Jie Ren, Minjia Zhang, Dong Li*
+
+---
+
+[3] **SONG: Approximate Nearest Neighbor Search on GPU** ICDE 2020. [paper](https://ieeexplore.ieee.org/document/9101583)
+
+*Weijie Zhao, Shulong Tan, Ping Li*
+
+---
 ### [3. Graph based Index](./content/Graph-based-Index.md)
 
 [1] **Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchial Navigable Small World Graphs** [paper](https://arxiv.org/pdf/1603.09320.pdf)
